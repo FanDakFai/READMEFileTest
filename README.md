@@ -1,3 +1,6 @@
+# This repository just is used to test README.md file format effects
+# It contain no thing to be shared
+
 # Project springboot_scaffold
 Create Scaffold for springboot framework (jpa repository, spring mvc, thymeleaf)
 
